@@ -113,6 +113,7 @@ To make the video implementation more robust against false positives, a slight m
 To accomplish the above task, I have written a class `vehicle detection` which can found in code cell 30 of `Project.ipynb`.  
 
 Here's a link to my final video result :
+
 [![Project video](https://img.youtube.com/vi/kCiRmxB7TQw/0.jpg)](https://www.youtube.com/watch?v=kCiRmxB7TQw "Project video")
 
 
